@@ -1,0 +1,3 @@
+[submodule "ex-submodule-service-a"]
+	path = ex-submodule-service-a
+	url = git@github.com:dvgamerr/ex-submodule-service-a.git
