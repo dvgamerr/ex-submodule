@@ -44,6 +44,8 @@ git submodule update --init --recursive
 
 ![](./docs/messageImage_1724837375366.jpg)
 
+project main commit แค่ ตอนที่ branch main ของทุก service change ก็พอ พี่จะเป็นคน commit ก็ได้
+ส่วนน้องๆ ก็ให้ commit แค่  service ไป 
 
 ## Ref
 - https://git-scm.com/docs/git-submodule
